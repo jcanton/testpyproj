@@ -1,0 +1,11 @@
+__pycache__/
+.git/
+.pytest_cache/
+uv.lock
+
+# Always put this!
+src/__init__.py
+tests/__init__.py
+
+# from pre-commit
+node_modules/
